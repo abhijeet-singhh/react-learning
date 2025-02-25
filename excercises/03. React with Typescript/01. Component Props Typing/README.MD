@@ -1,7 +1,5 @@
 # Component Props Typing
 
-<hr>
-
 ## Objective
 
 In this exercise, you'll practice typing props for a React component using TypeScript. You will create a simple Button component with typed props and then use it within a parent component.
