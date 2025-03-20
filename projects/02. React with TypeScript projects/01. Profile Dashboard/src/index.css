@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  --amber-color: #f59e0b;
+}
+
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.dark {
+  --amber-color: #fbbf24;
+}
