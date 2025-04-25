@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.box{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: rgb(240, 240, 3);
+}
